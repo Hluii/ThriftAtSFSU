@@ -1,18 +1,16 @@
 # ThriftAtSFSU - CSC 648 Semester Project Repository
 
 ## Website DEMO:
-DEMO:
-<img src='./WebsiteDEMO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![WebsiteDEMO](https://github.com/user-attachments/assets/55f34562-057a-4f43-b0c8-bf033880b0f7)
 
-3. Fill out the table below
-https://github.com/Hluii/ThriftAtSFSU/blob/main/WebsiteDEMO.gif
 
-| Student Name | School Email | GitHub Username |
+## Collaborators
+
+| Student Name | Role | GitHub Username |
 |    :---:     |     :---:     |     :---:       |
-| Sid Padmanabhuni      |      spadmanabhuni@sfsu.edu        |         SidPad03        |
-| Joseph Shur      |        jshur1@sfsu.edu       |           joseph-shur       |
-|  Hilary Lui       |         hlui@sfsu.edu      |          Hluii       |
-| Joseph Alhambra      |    jalhambra@sfsu.edu           |        JosephCVA         |
-| Annison Van      |         avan@sfsu.edu      |          anvan882       |
+|  Hilary Lui       |         Team Lead     |          Hluii       |
+| Annison Van      |         Frontend Lead     |          anvan882       |
+| Sid Padmanabhuni      |      Backend Lead       |         SidPad03        |
+| Joseph Shur      |        Backend    |           joseph-shur       |
+| Joseph Alhambra      |    Frontend          |        JosephCVA         |
 
-## NO code needs to be stored in the root of your repository. You may rename the application folder if you like to your team's application name. But all source code related to your team's application should be stored inside the application folder.
